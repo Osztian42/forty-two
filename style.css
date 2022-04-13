@@ -1,0 +1,59 @@
+#main{
+  
+ background: linear-gradient(to bottom, #000066 0%, #9900cc 100%);
+  }
+
+
+#title {
+  text-align:center;
+  position: relative;
+  top: 10px;
+  color: #42;
+  font-family: "Saira", sans-serif;
+  font-weight: 942;
+  text-shadow: 1px -1px 0 rgba(242, 242, 242, 0.42), 4.2px 1px 4.2px rgba(242, 0, 242, 0.84), -4.2px -4.2px 4.2px rgba(0, 0, 242, 0.84), 1px -4.2px 0 rgba(242, 242, 242, 0.84);
+}
+
+
+#image {
+  height:auto;
+  width:500px;
+  max-width:100%;
+  display:block;
+  margin:0 auto;
+}
+
+
+#img-caption {
+  text-align:center;
+  position: relative;
+  bottom: 10px;
+  font-size: 15px;
+}
+
+
+#tribute-info {
+  font-size: 25px;
+  text-align:center;
+  position: relative;
+  left:40px;
+  right: 40px
+}
+
+
+#list{
+  
+  position: relative;
+  left:40px;
+}
+
+#footer{
+   text-align:center;
+  position: relative;
+  left:40px;
+  
+}
+  
+  
+
+  
